@@ -8,7 +8,7 @@ tags: [ wireshark, privesc, linux ]
 
 ![](/assets/img/posts/smag/1.png)
 
-Room : https://tryhackme.com/room/smaggrotto
+Room : [https://tryhackme.com/room/smaggrotto](https://tryhackme.com/room/smaggrotto)
 
 Author : [@jakeyee](https://tryhackme.com/p/jakeyee)
 
