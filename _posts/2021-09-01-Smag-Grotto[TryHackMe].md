@@ -3,7 +3,7 @@ title: Smag-Grotto[TryHackMe]
 author: Vishnu Sudhakaran
 date: 2021-09-01 22:30:00 +0800
 categories: [TryHackMe]
-tags: [ wireshark, privesc, linux ]
+tags: [ wireshark, privesc, linux, gtfobin ]
 ---
 
 ![](/assets/img/posts/smag/1.png)
