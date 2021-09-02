@@ -1,5 +1,5 @@
 ---
-title: Gravithon-CTF-21
+title: GravithonCTF 2021
 author: Vishnu Sudhakaran
 date: 2021-09-02 11:30:00 +0800
 categories: [CTF-WriteUps]
