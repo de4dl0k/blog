@@ -1,5 +1,5 @@
 ---
-title: About
+title: WHOAMI
 icon: fas fa-info
 order: 4
 ---
