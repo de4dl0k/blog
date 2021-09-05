@@ -38,14 +38,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Vishnu Sudhakaran
-  email: an0nc4ce@gmail.com             # change to your email address
+  email: an0n4ce@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/an0n4ce      # change to your twitter homepage
     - https://github.com/an0n4ce       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/an0n4ce
-    # - https://www.linkedin.com/in/an0n4ce
+    - https://www.linkedin.com/in/an0n4ce
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark  # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
